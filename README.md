@@ -1,6 +1,6 @@
 [![Header](https://github.com/Gusonkad/Gusonkad/blob/main/assets/header.png)](https://gusonkad-cv.netlify.app)
 
-About me
+## Front-End Developer
 
 Latest works
 
