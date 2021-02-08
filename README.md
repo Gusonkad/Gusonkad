@@ -23,5 +23,12 @@ Latest works
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-101e3f?style=for-the-badge&logo=)
 
 
-Fpllow me
+### Follow me:
+[![linkedin](https://img.shields.io/badge/linkedin-101e3f?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/дмитрий-гусонька-242b8213b/)
+[![facebook](https://img.shields.io/badge/facebook-101e3f?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/dima.gusonka)
+[![instagram](https://img.shields.io/badge/instagram-101e3f?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dmytro_gusonka/?hl=ru)
+[![telegram](https://img.shields.io/badge/telegram-101e3f?style=for-the-badge&logo=telegram&logoColor=0088cc)](href="https://telegram.im/@GusonkaD")
+[![whatsapp](https://img.shields.io/badge/whatsapp-101e3f?style=for-the-badge&logo=whatsapp&logoColor=10d34b)](href="whatsapp://send?phone=+380978723138")
+
+
 
