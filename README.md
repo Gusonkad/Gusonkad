@@ -1,6 +1,6 @@
 [![Header](https://github.com/Gusonkad/Gusonkad/blob/main/assets/header.png)](https://gusonkad-cv.netlify.app)
 
-## Front-End Developer
+## JavaScript Developer
 
 ### Latest works:
 [![vdigroup.com.ua](https://img.shields.io/badge/www.vdigroup.com.ua-101e3f?style=for-the-badge&logo=&logoColor=B4068E)](https://www.vdigroup.com.ua)
