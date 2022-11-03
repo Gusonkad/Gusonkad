@@ -8,22 +8,26 @@
 
 
 ### Languages and tools:
-![JavaScript](https://img.shields.io/badge/Java_Script-101e3f?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-101e3f?style=for-the-badge&logo=Angular)
+![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/HTML5-101e3f?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-101e3f?style=for-the-badge&logo=CSS3)
 ![JSON](https://img.shields.io/badge/JSON-101e3f?style=for-the-badge&logo=JSON)
-![ReactJS](https://img.shields.io/badge/ReactJS-101e3f?style=for-the-badge&logo=React)
-![Angular](https://img.shields.io/badge/Angular-101e3f?style=for-the-badge&logo=Angular)
-![Node.js](https://img.shields.io/badge/Node.js-101e3f?style=for-the-badge&logo=Node.js)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Gulp](https://img.shields.io/badge/Gulp-101e3f?style=for-the-badge&logo=Gulp)
-![CMSWordPress](https://img.shields.io/badge/WordPress-101e3f?style=for-the-badge&logo=WordPress)
-![PHP](https://img.shields.io/badge/PHP-101e3f?style=for-the-badge&logo=PHP)
-![Java8](https://img.shields.io/badge/Java-101e3f?style=for-the-badge&logo=Java)
-![MySQL](https://img.shields.io/badge/MySQL-101e3f?style=for-the-badge&logo=MySQL)
 ![CPanel](https://img.shields.io/badge/CPanel-101e3f?style=for-the-badge&logo=Cpanel)
 ![AdobePhotoshop](https://img.shields.io/badge/Photoshop-101e3f?style=for-the-badge&logo=Adobe)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Avocode](https://img.shields.io/badge/VS_Code-101e3f?style=for-the-badge&logo=VisualStudioCode)
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-101e3f?style=for-the-badge&logo=)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### Follow me:
