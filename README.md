@@ -1,4 +1,4 @@
-[![Header](https://github.com/Gusonkad/Gusonkad/blob/main/assets/header.png)](https://gusonkad-cv.netlify.app)
+[![Header](https://github.com/Gusonkad/Gusonkad/blob/main/assets/header.png)](https://gusonkadcv.netlify.app/)
 
 ## JS, Python Developer
 
